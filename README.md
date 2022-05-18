@@ -4,4 +4,4 @@
 
 
 ## Models that can use Nvidia Gpu for computation on laptop
-1. [](https://developer.nvidia.com/blog/accelerating-random-forests-up-to-45x-using-cuml/)
+1. [Gpu based Random Forest Nvidia](https://developer.nvidia.com/blog/accelerating-random-forests-up-to-45x-using-cuml/)
